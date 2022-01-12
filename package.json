@@ -1,0 +1,12 @@
+{
+  "name": "help-me-record-server",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/mateusbslopes/help-me-record-server.git",
+  "author": "Mateus Lopes <mateusbslopes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "ws": "^8.4.0"
+  }
+}
